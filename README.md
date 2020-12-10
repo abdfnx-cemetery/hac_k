@@ -1,4 +1,4 @@
-# [<img src=".github/Hac_k.svg">](https://abdfn-hac_k.github.io)
+# [<img src="https://dev-to-uploads.s3.amazonaws.com/i/t5pzh74ryplx48odisf9.png">](https://abdfnx.github.io/hac_k/)
 from [@abdfnx](https://github.com/abdfnx)
 
 > CLI app messenger & helper
