@@ -1,14 +1,15 @@
 {
-	"name": "hac_k",
-	"version": "1.0.0",
+	"name": "@abdfnx/hac_k",
+	"version": "1.0.2",
 	"description": "CLI app messenger & helper",
 	"license": "MIT",
 	"main": "index.js",
-	"repository": "https://github.com/abdfnx/hack_",
+	"repository": "https://github.com/abdfnx/hac_k",
 	"author": "abdfnx",
 	"engines": {
 		"node": ">=10"
 	},
+	"homepage": "https://abdfnx.github.io/hac_k/",
 	"scripts": {
 		"test": "xo && tsd"
 	},

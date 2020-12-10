@@ -14,7 +14,7 @@ from [@abdfnx](https://github.com/abdfnx)
 ## Install
 
 ```s
-$ npm i hac_k
+$ npm i @abdfnx/hac_k
 ```
 
 ## Usage
