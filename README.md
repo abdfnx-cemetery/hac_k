@@ -13,14 +13,14 @@ from [@abdfnx](https://github.com/abdfnx)
 
 ## Install
 
-```s
-$ npm i @abdfnx/hac_k
+```sh
+❯ npm i @abdfnx/hac_k
 ```
 
 ## Usage
 
-```s
-$ ./foo-app.js xbox --xbox
+```sh
+❯ ./foo-app.js xbox --xbox
 ```
 
 **CommonJS**
@@ -34,13 +34,13 @@ const foo = require(".");
 const cli = hac_k(
 	`
 	Usage
-	  $ foo <input>
+	  ❯ foo <input>
 
 	Options
 	  --xbox, -x  Include a xbox
 
 	Examples
-	  $ foo consoles --xbox
+	  ❯ foo consoles --xbox
 	  🎮 consoles 🎮
 `,
 	{
@@ -75,13 +75,13 @@ const hac_k = createRequire(import.meta.url)("hac_k");
 const cli = hac_k(
 	`
 	Usage
-	  $ foo <input>
+	  ❯ foo <input>
 
 	Options
 	  --xbox, -x  Include a xbox
 
 	Examples
-	  $ foo consoles --xbox
+	  ❯ foo consoles --xbox
 	  🎮 consoles 🎮
 `,
 	{
@@ -178,14 +178,14 @@ const hac_k = require("hac_k");
 const cli = hac_k(
 	`
 	Usage
-	  $ foo
+	  ❯ foo
 
 	Options
 	  --xbox, -x  Include xbox
 	  --ninja_cat, -nc  Include a ninja_cat
 
 	Examples
-	  $ foo
+	  ❯ foo
 	  🎮 consoles 🎮
 `,
 	{
