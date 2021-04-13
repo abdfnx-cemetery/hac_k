@@ -62,7 +62,6 @@
 	},
 	"xo": {
 		"rules": {
-			"unicorn/no-process-exit": "off",
 			"node/no-unsupported-features/es-syntax": "off"
 		},
 		"ignores": [
